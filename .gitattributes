@@ -1,0 +1,8 @@
+covid-immunity/covidestim-daily-fips.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity/covidestim-daily-state.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity/immunity-daily-state.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity/immunity-daily-fips.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity-2022/immunity-weekly-fips.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity-2022/immunity-weekly-state.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity-2022/covidestim-weekly-state.csv.xz filter=lfs diff=lfs merge=lfs -text
+covid-immunity-2022/covidestim-weekly-fips.csv.xz filter=lfs diff=lfs merge=lfs -text
